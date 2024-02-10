@@ -4,6 +4,10 @@
 
 ## Overview 
 
-Developed a dynamic sales analytics dashboard for an electronic company, featuring key performance indicators, sales insights, top-selling products, and top sellers. Implemented interactive slicers for efficient data filtering by products, months, and dates, enhancing data exploration and decision-making capabilities. This project effectively visualized critical sales metrics, empowering stakeholders to make informed strategic decisions
+Developed a dynamic sales analytics dashboard for an electronic company, featuring key performance indicators, sales insights, top-selling products, and top sellers. Implemented interactive slicers for efficient data filtering by products, months, and dates, enhancing data exploration and decision-making capabilities. This project effectively visualized critical sales metrics, empowering stakeholders to make informed strategic decisions.
+
+#### Tool Used-
+Excel
+
 
 
